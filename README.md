@@ -82,6 +82,24 @@ python student_management.py
 
 ---
 
+## Screenshots
+
+### Main Menu
+![Menu](screenshots/Menu.png)
+
+### Add Student
+![Add](screenshots/Add.png)
+
+### View Students
+![View](screenshots/View.png)
+
+### Update Students
+![View](screenshots/Update.png)
+
+### Exit
+![Exit](screenshots/Exit.png)
+
+---
 ## 📌 Possible Enhancements
 
 - Add data validation
@@ -90,4 +108,3 @@ python student_management.py
 - Store logs of changes
 
 Feel free to extend it! 🚀
-
