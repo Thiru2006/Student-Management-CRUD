@@ -85,19 +85,19 @@ python student_management.py
 ## Screenshots
 
 ### Main Menu
-![Menu](screenshots/Menu.png)
+![Menu](Screenshots/Menu.png)
 
 ### Add Student
-![Add](screenshots/Add.png)
+![Add](Screenshots/Add.png)
 
 ### View Students
-![View](screenshots/View.png)
+![View](Screenshots/View.png)
 
 ### Update Students
-![View](screenshots/Update.png)
+![View](Screenshots/Update.png)
 
 ### Exit
-![Exit](screenshots/Exit.png)
+![Exit](Screenshots/Exit.png)
 
 ---
 ## 📌 Possible Enhancements
